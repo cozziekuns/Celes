@@ -1,1 +1,1 @@
-# Celes
+# Lean Mahjong
