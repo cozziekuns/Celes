@@ -1,3 +1,61 @@
 ---
 ---
 @import "main";
+
+body {
+  font-family: 'Palatino', serif;
+  background-color: #fafafa;
+}
+
+a:link, a:visited {
+  color: #002040;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #707070;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+header {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+div.container {
+  width: 720px;
+  margin: auto;
+}
+
+p.subtitle {
+  color: #828282;
+  text-align: center;
+}
+
+/* Index */
+
+div.excerpt {
+  text-align: center;
+}
+
+/* Post */
+
+div.post-date {
+  margin-bottom: 2em;
+}
+
+div.post-author {
+  text-align: right;
+}
