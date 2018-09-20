@@ -28,12 +28,12 @@ Mahjong is an extremely difficult game to master, in part due to how noisy the
 feedback loop is. One player may make many a mistake, and still end up 1st on 
 the table due to variance. In the same vein, the "best" play may very well
 end up being the play that puts you in 4th. While in the past I've used aggregated
-stats to determine my "level", I now believe that, even hollistically over 1000 
-hanchan, results-based feedback is not an option in Mahjong. The reason being that
-tabulating your winning percentages tells you a very specific thing; that being 
-either you win more, or you lose more. But that is very different from telling you
-*how* or *why* you win; *how* or *why* you lose. You cannot rely on stats to 
-tell you why you are winning or losing.
+stats to determine my "level", I now believe that, even holistically over 1000 
+hanchan, results-based feedback is not an option in Mahjong. Tabulating your winning
+percentages tells you a very specific thing; do you win more often, or do you lose 
+more often? But that is very different from telling you *how* or *why* you win; 
+*how* or *why* you lose. You cannot rely on stats to tell you why you are winning or 
+losing.
 
 #### The only thing that you can rely on is *process*.
 
