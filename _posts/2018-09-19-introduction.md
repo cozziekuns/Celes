@@ -43,12 +43,12 @@ understand what going on during a game of Mahjong at the core. Once we have achi
 that understanding, we can begin to build upon that, reasoning about what actions 
 cause waste, and what actions deliver value.
  
-I have no clue what will come from this experiment, but I am commmiting myself to
-the process. This blog will be a living record, hopefully proving my own commitments 
-to myself. I hope that the information provided in this blog, whether effective or
-not, will be useful or insightful to any readers who may have stumbled upon it. 
+I have no clue what will come from this experiment, but I am commiting myself to
+the process. This blog will be a living record; proof of my own commitments. 
+I hope that the information provided in this blog, whether effective or not, 
+will be useful or at least insightful to any readers that may have stumbled upon it. 
 
-And with that, it's time to begin this fantastic adventure. Making sense out of the 
-madness. To wherever madness takes us.
+And with that, it's time to begin making sense out of the madness. To wherever madness 
+takes us.
 
 #### See you on Tenhou.
