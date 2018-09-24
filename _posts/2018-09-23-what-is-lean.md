@@ -32,7 +32,7 @@ the best tile to cut here?
 
 That's exactly the trap that I fell in admist the chaos of this hanchan. As a result, I ended up 
 playing into a baiman from kamicha (chiitoi with 2 dora 2 ura), and ended the hanchan in 4th, 
-losing precious Tenhou dan pts. Was this really my fault, or did I just get screwed over by the 
+losing precious Tenhou dan points. Was this really my fault, or did I just get screwed over by the 
 gods of mahjong yet again?
 
 ### Assessment
