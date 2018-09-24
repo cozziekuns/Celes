@@ -5,12 +5,11 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
-  background-color: #fbfbfb;
   font-size: 20px;
 }
 
 a:link, a:visited {
-  color: #002040;
+  color: #006080;
   text-decoration: none;
 }
 
@@ -27,9 +26,19 @@ h2 {
   text-align: center;
 }
 
-ul {
+ul.post {
   padding: 0;
   list-style-type: none;
+}
+
+li.post {
+  border-bottom: 3px dotted #CFCFCf;
+  margin-bottom: 2em;
+  padding-bottom: 2em;
+}
+
+li.post h3 {
+  text-align: center;
 }
 
 header {
@@ -43,18 +52,20 @@ div.container {
   padding-bottom: 4em;
 }
 
+div.container img {
+  max-width: 720px;
+}
+
 p.subtitle {
   color: #828282;
   text-align: center;
 }
 
-/* Index */
+/* Post */
 
-div.excerpt {
+div.post {
   margin-bottom: 2em;
 }
-
-/* Post */
 
 div.post-date {
   margin-bottom: 2em;
