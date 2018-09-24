@@ -4,9 +4,7 @@ author: cozziekuns
 excerpt_separator: <!--more-->
 ---
 
-Instead of giving a detailed explanation and a bunch of definitions about what Lean is, I figure 
-the best way to explain what I hope to accomplish is with a simple example. Lean is not a quick 
-hack to increase your win-rates. In the words of Bobby Scar, who applied a 
+Lean is not a quick hack to increase your win-rates. In the words of Bobby Scar, who applied a 
 [similar-but-different Lean framework](https://leanmelee.wordpress.com/) (that inspired this one) 
 to the game Super Smash Brothers Melee:
 
@@ -17,7 +15,9 @@ learning is the foundation.*
 
 Lean Mahjong is a framework that is all about identifying and removing waste from our process. To 
 do this requires a strong understanding of mahjong fundamentals and mechanisms that I plan to delve 
-into in the upcoming posts. For now, here's a little taste of what I have planned.
+into in the upcoming posts. Instead of giving a detailed explanation and a bunch of definitions 
+about what Lean is though, I figure the best way to explain what I hope to accomplish is with a 
+simple example. For now, here's a little taste of what I have planned.
 
 ### A Problem
 
