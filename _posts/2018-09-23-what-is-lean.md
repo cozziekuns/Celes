@@ -120,7 +120,7 @@ safest tile, given that the rest of my hand is filled with all number tiles and 
 dora. It felt even safer because I had a toitsu in my hand, and toimen had discarded 
 one early, leaving tanki as the only option. Had I stopped to think about how dangerous 
 (value wise) xia is from the context of this board, or noticed that 8s was basically a
-100% safe, I would have never played it.
+100% safe tile, I would have never played it.
 
 (As an aside, I personally believe that the "EV-positive" play is almost always also
 the lazy one. Lazy doesn't mean that the play is necessarily bad; it just means that, 
