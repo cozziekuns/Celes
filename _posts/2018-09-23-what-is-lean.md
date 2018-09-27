@@ -85,7 +85,7 @@ too much for next to zero value.
 So, what should we discard instead? Is there a better tile to cut? In this case, even taking 
 toimen's xia discard into consideration, there is a safer tile to cut. 
 
-#### 8s is the safest cut in this instance.
+**8s is the safest cut in this instance.**
 
 Kamicha has cut 8s and the tile that they declared riichi on was the 5s. This means that if simocha 
 is waiting on the 8s, it would have to be kanchan, shanpon, or tanki.
@@ -161,4 +161,4 @@ of eliminating waste comes from treating lazy habits like this one. During the c
 voyage, I aim to reason about and eliminate as much waste from my mahjong process as I can, keeping 
 it as lean as possible. Hopefully you have been inspired to do the same.
 
-#### See you on Tenhou.
+**See you on Tenhou.**

@@ -4,7 +4,7 @@ author: cozziekuns
 excerpt_separator: <!--more-->
 ---
 
-#### *Every day is a new day. It is better to be lucky. But I would rather be exact.*
+**_Every day is a new day. It is better to be lucky. But I would rather be exact._**
 
 I've been playing competitive mahjong for about a year now, and needless to say I've become 
 enamoured with the game. In one year, I've managed to rank up from a measly Tenhou 3-dan to a 
@@ -31,7 +31,7 @@ tells you a very specific thing; do you win more often, or do you lose more ofte
 different from telling you *how* or *why* you win; *how* or *why* you lose. You cannot rely on 
 stats to tell you why you are winning or losing.
 
-#### The only thing that you can rely on is *process*.
+**The only thing that you can rely on is _process_.**
 
 Lean Mahjong is my attempt at getting to the very essence of the game of Mahjong. By trimming away 
 all the noise and nonsense from the game, we can begin to understand what going on during a game of 
@@ -45,4 +45,4 @@ have stumbled upon it.
 
 And with that, it's time to begin making sense out of the madness. To wherever madness takes us.
 
-#### See you on Tenhou.
+**See you on Tenhou.**

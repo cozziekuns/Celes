@@ -48,6 +48,14 @@ div.container {
   padding-bottom: 4em;
 }
 
+div.container h3 {
+  text-align: center;
+}
+
+div.container h4 {
+  text-align: center;
+}
+
 div.container img {
   max-width: 720px;
 }
@@ -61,10 +69,6 @@ p.subtitle {
 
 div.post {
   margin-bottom: 2em;
-}
-
-div.post h3 {
-  text-align: center;
 }
 
 div.post-date {
