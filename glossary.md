@@ -150,6 +150,9 @@ A tile that someone in tenpai can call ron on.
 **Shonpai (<small>生牌、ションパイ</small>)**<br/>
 A tile that is not in the discard pile.
 
+**Anpai (<small>安牌</small>)**<br/>
+Safe tiles.
+
 #### Hand Shapes
 
 **Shuntsu (<small>順子、シュンツ</small>)**<br/>
@@ -188,6 +191,9 @@ A multi-sided tanki wait. For example, 2345p is a nobetan waiting on 25p.
 "Hell Wait." A pair wait with only one possible tile left.
 
 #### Hand Progression / Winning a Hand
+
+**Uke-ire (<small>受け入れ</small>)**<br/>
+The number of tiles a hand can take in to decrease its shanten.
 
 **Takame (<small>高め</small>)**<br/>
 The more expensive side of a wait.
@@ -264,22 +270,25 @@ With the initiative.
 **Gote (<small>後手</small>)**<br/>
 Without the initiative.
 
-#### Other
-
-**Ritsu (<small>率、りつ</small>)**<br/>
-Percentage. E.g. tsumo ritsu = percentage chance that you will tsumo.
-
-**Yomi (<small>読み、よみ</small>)**<br/>
-Translates to "reading". Often refers to your read on a situation.
-
-**Nagare (<small>流れ、ながれ</small>)**<br/>
-The "flow" of the game.
+**Shibori (<small>絞り</small>**)<br/>
+To "squeeze/choke." To deliberately deny a player tiles they could possibly call.
 
 **Kawashi-te (<small>かわし手</small>)**<br/>
 A hand built for the purpose of ending the round.
 
-**Uke-ire (<small>受け入れ</small>)**<br/>
-The number of tiles a hand can take in to decrease its shanten.
+#### Other
+
+**Kyoutaku (<small>供託</small>**)<br/>
+Refers to the gain from the point sticks on the table (riichi sticks, homba).
+
+**Ritsu (<small>率</small>)**<br/>
+Percentage. E.g. tsumo ritsu = percentage chance that you will tsumo.
+
+**Yomi (<small>読み</small>)**<br/>
+Translates to "reading". Often refers to your read on a situation.
+
+**Nagare (<small>流れ</small>)**<br/>
+The "flow" of the game.
 
 **Tedashi (<small>手出し</small>)**<br/>
 Cutting a tile from the inside of your hand.
@@ -306,13 +315,19 @@ Terminals, e.g. 1 and 9 tiles.
 **Shubi (<small>守備</small>)**<br/>
 Defensive.
 
+**Meisai (<small>迷彩</small>)**<br/>
+"Camouflage." When someone deliberately makes an irregular discard to hide their yaku / wait / etc.
+
+**Yoko-idou (<small>横移動</small>)**<br/>
+"Sideways movement." Point transfers between other players that do not affect your standing.
+
+**Nurui (<small>ぬるい</small>)**<br/>
+Slow. Often refers to a play that is too safe.
+
 #### Other
 
 **Atamahane (<small>頭ハネ</small>)**<br/>
 Head bump that occurs if the double ron rule is not in effect.
-
-**Anpai (<small>安牌</small>)**<br/>
-Safe tiles.
 
 **Danrasu (<small>ダンラス</small>)**<br/>
 Dead last.
@@ -334,8 +349,8 @@ When a player cannot win the round (via dead call, etc).
 Caught. Refers to when a pushing player draws (and often plays) a ronpai they cannot use in their 
 hand.
 
-**Nurui (<small>ぬるい</small>)**<br/>
-Slow. Often refers to a play that is too safe.
+**Tenbou (<small>点棒</small>**)<br/>
+Point sticks.
 
 **Jyouken (<small>条件</small>)**<br/>
 Condition. For example, hane-tsumo jyoken = haneman tsumo is required.
@@ -366,9 +381,6 @@ Starting points.
 
 **Soten (<small>素点</small>)**<br/>
 Point value considering point sticks only. Point value disregarding uma and oka.
-
-**Yoko-idou (<small>横移動</small>)**<br/>
-"Sideways movement." Point transfers between other players that do not affect your standing.
 
 **Sentaku (<small>選択</small>)**<br/>
 A choice, often between two waits.

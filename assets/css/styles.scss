@@ -32,7 +32,7 @@ ul.post {
 }
 
 li.post {
-  border-bottom: 3px dotted #CFCFCf;
+  border-bottom: 3px dotted #BFBFBF;
   margin-bottom: 2em;
   padding-bottom: 2em;
 }
@@ -63,6 +63,25 @@ div.container img {
 p.subtitle {
   color: #828282;
   text-align: center;
+}
+
+/* Navbar */
+
+div.navbar {
+  text-align: center;
+  border-top: 1px solid #BFBFBF;
+  border-bottom: 1px solid #BFBFBF;
+  margin-bottom: 4em;
+}
+
+div.navbar ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+div.navbar li {
+  display: inline;
+  padding: 0 1em;
 }
 
 /* Post */
