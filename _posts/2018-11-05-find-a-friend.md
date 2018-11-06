@@ -7,6 +7,12 @@ excerpt_separator: <!--more-->
 
 **_Anyone can play solitaire._**
 
+A friend of mine once posited that they could make a strong mahjong bot simply by running a 
+machine-learning model tuned towards maximising agari-rate. Fortunately for us humans, mahjong is 
+not such a simple game. What mahjong is not about is winning hands; after all, anyone can play 
+solitaire. What mahjong really is about is _winning games_. And, like in life, trying to go it 
+alone is a bad idea; the best way to win is often to _find a friend_. 
+
 ![4-1](/assets/img/4-1.png)
 
 What should we discard here? The first thing that anyone should do before deciding what to discard, 
@@ -38,7 +44,7 @@ last oya with an obscene lead), even if they did have a quick hand, the only way
 them would be by blocking off our simocha from calling. This leaves us at the mercy of toimen; if 
 toimen riichi's and tsumos a mangan, bye-bye 2nd place.
 
-Which brings us my favourite method; feed simocha! We can leverage the fact that simocha must 
+Which brings us to my favourite method; feed simocha! We can leverage the fact that simocha must 
 favour speed over value due to the amount of duress he is under from toimen. Not only is toimen 
 within 2000 points of simocha, his first and second discards (8m -> hatsu tedashi) signal a quicker 
 than usual hand. Furthermore, since this is aka-ari mahjong, toimen's condition of escaping third 
@@ -62,12 +68,12 @@ us through the 9p toitsu drop that we should feed them! If this was the actual i
 
 In the actual game, I ended up dropping 6m -> 4m in an attempt to feed simocha some tiles they 
 could call for kuitan. While 6m passed, 4m was a kanchan neck that simocha needed to call to get 
-into tenpai. Simocha then decided to call the 7p that I dropped to improve their wait. With two 
-dora-less mentsu showing, and two dora in my hand (I had picked up 4s on a later draw), the chance 
-of simocha having a mangan potential hand have all but disappeared. Kamicha decided to join in the 
-game and landed the final blow, breaking up a 3p from one of their mentsu in an attempt to 
-sashikomi into simocha. Simocha called ron, winning their 1000 point hand, and all was right in the 
-world.
+into tenpai. Simocha then decided to call the 7p that I later dropped to improve their wait. With 
+two dora-less mentsu showing, and two dora in my hand (I had picked up 4s on a later draw), the 
+chance of simocha having a mangan potential hand have all but disappeared. Kamicha decided to join 
+in the fun, breaking up a 3p from one of their mentsu in an attempt to sashikomi into simocha. 
+Miraculously, Simocha calls ron on the 3p, winning their 1000 point hand. 1st, 2nd and 3rd place 
+have all achieved their separate goals, and all with minimal risk.
 
 By leveraging both the point situation and my read of simochas hand, I confirmed my 2nd place 
 without having to play any real sort of RNG game. I removed myself from the round (as did kamicha), 
