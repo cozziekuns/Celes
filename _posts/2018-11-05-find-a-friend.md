@@ -74,6 +74,8 @@ us through the 9p toitsu drop that we should feed them! I have no clue if this w
 intention, but if it was, then I have nothing but the upmost respect for them as a player. Of 
 course, this only works if the other players are willing to play along, but in this case I was.
 
+![4-2](/assets/img/4-2.png)
+
 In the actual game, I ended up dropping 6m -> 4m in an attempt to feed simocha some tiles they 
 could call for kuitan. While 6m passed, 4m was a kanchan neck that simocha needed to call to get 
 into tenpai. I then dropped a 7p, which simocha also called to improve their wait. With two 
@@ -91,8 +93,8 @@ goals, with minimal risk.
 
 Remember this: anyone can play solitaire. But Mahjong is a four-player game. The crux of good 
 mahjong play is to identify each other player's best interests, and form alliances when a player's 
-interests aligns with yours. Especially in the later stages of the hanchan, you should be looking 
-to find a friend. If you refuse to forge friendships, then you'll find yourself at the mercy of a 
-friend you can't trust: luck.
+interests aligns with yours. Especially in the later stages of the hanchan, you should be on the 
+lookout for potential alliances. If you refuse to forge friendships, then you'll find yourself at 
+the mercy of a friend you can't trust: luck.
 
 **See you on Tenhou.**
