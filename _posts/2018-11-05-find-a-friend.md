@@ -54,20 +54,20 @@ Which brings us to my favourite method; feed simocha! We can leverage the fact t
 favour speed over value given the amount of duress he is under from toimen. Not only is toimen 
 within 2000 points of simocha, his first and second discards (8m -> hatsu tedashi) signal a quicker 
 than usual hand. Furthermore, since this is aka-ari mahjong, toimen's condition of escaping 3rd 
-(2000 points) is essentially a given, with how easy it is to use the 4s dora, and the existence of 
+(2000 points) is essentially a given, with how easy it is to use the 4s dora and the existence of 
 aka-dora. If we are able to convince simocha to start calling, we can reduce the average/maxmimum 
 value of their hand and thereby reduce the chance that we'll fall into 3rd place via a mangan 
 tsumo.
 
-Due to how irregular simocha's discards are, and the board situation, we can deduce a myriad of 
-conclusions about their hand. Simocha's first and second drop were both a 9p from inside of their 
+Due t the board situation and how irregular simocha's discards are, we can already deduce a myriad 
+of conclusions about their hand. Simocha's first and second drop were both a 9p from inside of their 
 hand; in other words, they explicitly dropped a toitsu of routouhai from the very start. From this, 
-we can conclude that are almost surely going for a tanyao hand. If they were going for a closed 
-riichi hand, they would keep the 9p in their hand to use as a pair or potential ankou. If they had 
-a yakuhai toitsu, that would give them even more reason to keep the 9p toitsu, as it is a very easy 
-toitsu to pon. The 9p toitsu drop also tells us that their hand is most likely decently quick and 
-locked into a kuitan shape; if it were slower, it would make more sense to fish for yakuhai or try 
-to form a pinfu shape instead of trying to force kuitan.
+we can conclude that they are almost surely going for a tanyao hand. If they were going for a 
+closed riichi hand, they would keep the 9p in their hand to use as a pair or potential ankou. If 
+they had a yakuhai toitsu, that would give them even more reason to keep the 9p toitsu, as it is a 
+very easy toitsu to pon. The 9p toitsu drop also tells us that their hand is most likely decently 
+quick and locked into a kuitan shape; if it were slower, it would make more sense for them to fish 
+for yakuhai or try to form a pinfu shape instead of trying to force kuitan.
 
 This makes simocha and extremely good candidate to feed. It's almost as if simocha was signaling to 
 us through the 9p toitsu drop that we should feed them! I have no clue if this was simocha's 
