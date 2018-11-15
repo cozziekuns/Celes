@@ -52,8 +52,7 @@ unusual scenario where a riichi doesn't afford us much in terms of gain.
 
 What exactly is the cost of calling riichi in this situtation? While riichi is often an unusually 
 strong yaku with many advantages and few demerits, in this situation the demerits are much more 
-pronounced, and as afformentioned the advantages that calling riichi gives us are effectively 
-neutered.
+pronounced, and any advantages that calling riichi gives us is effectively "win-more."
 
 I will not deny that  tsumoing a dealer mangan in this situation would be decisive, but how much 
 different would it be from tsumoing our guarneteed 4-han 20-fu hand? In both cases, there is a 
@@ -70,7 +69,7 @@ currently our partner in crime, as toimen is the one player on the board that is
 fighting to scrap for any points possible, since even 2000 points would put them in mangan tsumo 
 range of simocha in all-last. Toimen winning the hand is actually the best case scenario, since 
 that would put extra pressure onto simocha, who would be third place going into all-last. This 
-means that they would not have the freedom to make a big hand in ORAS, since toimen would be 
+means that they would not have the freedom to make a big hand in all-last, since toimen would be 
 breathing down their neck.
 
 So we are fine with toimen winning the hand, provided they do not win off of us. If we do call 
