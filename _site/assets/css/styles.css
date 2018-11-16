@@ -31,7 +31,7 @@ header {
   margin-bottom: 4em; }
 
 div.container {
-  width: 720px;
+  width: 765px;
   margin: auto;
   padding-bottom: 4em; }
 
@@ -42,7 +42,7 @@ div.container h4 {
   text-align: center; }
 
 div.container img {
-  max-width: 720px; }
+  max-width: 765px; }
 
 p.subtitle {
   color: #828282;
@@ -65,7 +65,8 @@ div.navbar li {
 
 /* Post */
 div.post {
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  line-height: 1.5; }
 
 div.post-date {
   margin-bottom: 2em; }
